@@ -35,7 +35,8 @@
                 <artifactId>mybatis-spring-boot-starter</artifactId>
                 <version>${mybatis.version}</version>
             </dependency>
-
+                 <dependency>
+                 </dependency>
             <!-- mysql驱动 -->
             <dependency>
                 <groupId>mysql</groupId>
